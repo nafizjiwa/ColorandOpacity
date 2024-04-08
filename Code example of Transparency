@@ -1,5 +1,4 @@
-### HTML CODE
----
+## HTML CODE
 
 <!DOCTYPE html>
 <html lang='en'>
@@ -17,8 +16,7 @@
 </body>
 </html>
 
-### /* CSS CODE */
----
+## CSS CODE 
 
 html,
 body {
